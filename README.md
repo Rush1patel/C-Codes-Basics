@@ -1,5 +1,3 @@
-README.md
-
 🚀 Basics Coding Repository 🌟
 
 📚 About
