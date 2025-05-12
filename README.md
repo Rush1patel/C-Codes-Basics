@@ -1,7 +1,7 @@
-🚀 Basics Coding Repository 🌟
+🚀 Basics of C Language coding Repository 🌟
 
 📚 About
-This repository contains basic coding examples and exercises that I've worked on 🚧. It's a collection of my early coding projects and experiments 🔬.
+This repository contains basic coding examples and exercises that I've worked on 🚧.
 
 📁 Contents
 - 🔄 Loops: Examples of loop structures (for, while, do-while)
