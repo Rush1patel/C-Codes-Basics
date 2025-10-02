@@ -28,7 +28,7 @@ Welcome! This repository serves as my personal learning ground and evolving port
 The primary goals behind this repository are:
 
 *   **To solidify my understanding** of core C language features and best practices.
-*   **To build a practical portfolio** showcasing my coding skills and project progression 📈.
+*   **To build a practical portfolio** showcasing my coding skills and project progression .
 *   **To create a personal reference** for common C patterns and solutions.
 *   **To have a dedicated space for experimentation** and exploring new C concepts as I learn 🤔.
 
