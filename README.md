@@ -34,7 +34,7 @@ The primary goals behind this repository are:
 
 ---
 
-## 📁 What's Inside? Contents Overview
+## 📁 What's Inside?
 
 Dive into various aspects of C programming. Each section contains focused examples:
 
